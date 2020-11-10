@@ -9,3 +9,10 @@ Reports:
 1. open the html file to find the result of test cases
 
 Note: driver file we have given here for the chrome browser version 86, if you have another version of browser in your local then add respective driver or upgrade the browser to 86
+
+Techstack Used:
+python3.7
+webdriver
+chome version: 86.x
+
+
